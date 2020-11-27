@@ -1,0 +1,4 @@
+Pembuatan Web
+- Buat file HTML
+- Perindah HTML dengan membuat file CSS
+- Buat website lebih interaktif dengan membuat file Javascript
