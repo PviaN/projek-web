@@ -1,6 +1,5 @@
 Pembuatan Web
-- Buat file HTML
-- Perindah HTML dengan membuat file CSS
 - Buat website lebih interaktif dengan membuat file Javascript
 - Buat database untuk menyimpan data
 - Hubungkan database dengan website menggunakan file PHP
+- Ubah file HTML dan CSS dengan framework Bootstrap
